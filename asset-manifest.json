@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/thilinaabeysinghe/static/css/main.44580317.css",
-    "main.js": "/thilinaabeysinghe/static/js/main.9e612016.js",
+    "main.css": "/thilinaabeysinghe/static/css/main.51719989.css",
+    "main.js": "/thilinaabeysinghe/static/js/main.aa510ef4.js",
     "static/media/web2.png": "/thilinaabeysinghe/static/media/web2.b8de62551b5f41a77356.png",
     "static/media/web1.png": "/thilinaabeysinghe/static/media/web1.b81ae95cc95d487b20fc.png",
     "static/media/my 3.jpg": "/thilinaabeysinghe/static/media/my 3.f54cd3c4f7cc55e1c848.jpg",
@@ -11,11 +11,11 @@
     "static/media/my.png": "/thilinaabeysinghe/static/media/my.6efdb6dbaa8b8343ae4b.png",
     "static/media/2.jpg": "/thilinaabeysinghe/static/media/2.69adbdece02702b08b99.jpg",
     "index.html": "/thilinaabeysinghe/index.html",
-    "main.44580317.css.map": "/thilinaabeysinghe/static/css/main.44580317.css.map",
-    "main.9e612016.js.map": "/thilinaabeysinghe/static/js/main.9e612016.js.map"
+    "main.51719989.css.map": "/thilinaabeysinghe/static/css/main.51719989.css.map",
+    "main.aa510ef4.js.map": "/thilinaabeysinghe/static/js/main.aa510ef4.js.map"
   },
   "entrypoints": [
-    "static/css/main.44580317.css",
-    "static/js/main.9e612016.js"
+    "static/css/main.51719989.css",
+    "static/js/main.aa510ef4.js"
   ]
 }
