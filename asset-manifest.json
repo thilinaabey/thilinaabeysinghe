@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/thilinaabeysinghe/static/css/main.51719989.css",
-    "main.js": "/thilinaabeysinghe/static/js/main.8fb865a6.js",
+    "main.css": "/thilinaabeysinghe/static/css/main.9ebf85d1.css",
+    "main.js": "/thilinaabeysinghe/static/js/main.c3aa12d4.js",
     "static/media/web2.png": "/thilinaabeysinghe/static/media/web2.b8de62551b5f41a77356.png",
     "static/media/web1.png": "/thilinaabeysinghe/static/media/web1.b81ae95cc95d487b20fc.png",
     "static/media/my 3.jpg": "/thilinaabeysinghe/static/media/my 3.f54cd3c4f7cc55e1c848.jpg",
@@ -10,12 +10,14 @@
     "static/media/1.jpg": "/thilinaabeysinghe/static/media/1.443072aa2b527175e265.jpg",
     "static/media/my.png": "/thilinaabeysinghe/static/media/my.6efdb6dbaa8b8343ae4b.png",
     "static/media/2.jpg": "/thilinaabeysinghe/static/media/2.69adbdece02702b08b99.jpg",
+    "static/media/Animated Login.jpg": "/thilinaabeysinghe/static/media/Animated Login.15d5078631c8c1a37474.jpg",
+    "static/media/pasan portfolio.jpg": "/thilinaabeysinghe/static/media/pasan portfolio.067e5e20ac8a3ce99328.jpg",
     "index.html": "/thilinaabeysinghe/index.html",
-    "main.51719989.css.map": "/thilinaabeysinghe/static/css/main.51719989.css.map",
-    "main.8fb865a6.js.map": "/thilinaabeysinghe/static/js/main.8fb865a6.js.map"
+    "main.9ebf85d1.css.map": "/thilinaabeysinghe/static/css/main.9ebf85d1.css.map",
+    "main.c3aa12d4.js.map": "/thilinaabeysinghe/static/js/main.c3aa12d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.51719989.css",
-    "static/js/main.8fb865a6.js"
+    "static/css/main.9ebf85d1.css",
+    "static/js/main.c3aa12d4.js"
   ]
 }
