@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/thilinaabeysinghe/static/css/main.9ebf85d1.css",
-    "main.js": "/thilinaabeysinghe/static/js/main.277fa263.js",
+    "main.css": "/thilinaabeysinghe/static/css/main.d47643ee.css",
+    "main.js": "/thilinaabeysinghe/static/js/main.a60e413f.js",
     "static/media/web2.png": "/thilinaabeysinghe/static/media/web2.b8de62551b5f41a77356.png",
     "static/media/web1.png": "/thilinaabeysinghe/static/media/web1.b81ae95cc95d487b20fc.png",
     "static/media/my 3.jpg": "/thilinaabeysinghe/static/media/my 3.f54cd3c4f7cc55e1c848.jpg",
-    "static/media/web4.png": "/thilinaabeysinghe/static/media/web4.2904c3034a49de55a9b1.png",
     "static/media/web5.png": "/thilinaabeysinghe/static/media/web5.9e9578f2477312721d00.png",
     "static/media/1.jpg": "/thilinaabeysinghe/static/media/1.443072aa2b527175e265.jpg",
     "static/media/my.png": "/thilinaabeysinghe/static/media/my.6efdb6dbaa8b8343ae4b.png",
     "static/media/2.jpg": "/thilinaabeysinghe/static/media/2.69adbdece02702b08b99.jpg",
     "static/media/Animated Login.jpg": "/thilinaabeysinghe/static/media/Animated Login.15d5078631c8c1a37474.jpg",
+    "static/media/Sahan portfolio.jpg": "/thilinaabeysinghe/static/media/Sahan portfolio.e8c77df27b0fddbd8e4e.jpg",
     "static/media/pasan portfolio.jpg": "/thilinaabeysinghe/static/media/pasan portfolio.067e5e20ac8a3ce99328.jpg",
     "index.html": "/thilinaabeysinghe/index.html",
-    "main.9ebf85d1.css.map": "/thilinaabeysinghe/static/css/main.9ebf85d1.css.map",
-    "main.277fa263.js.map": "/thilinaabeysinghe/static/js/main.277fa263.js.map"
+    "main.d47643ee.css.map": "/thilinaabeysinghe/static/css/main.d47643ee.css.map",
+    "main.a60e413f.js.map": "/thilinaabeysinghe/static/js/main.a60e413f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ebf85d1.css",
-    "static/js/main.277fa263.js"
+    "static/css/main.d47643ee.css",
+    "static/js/main.a60e413f.js"
   ]
 }
